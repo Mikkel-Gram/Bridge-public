@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Bridge.dll": "sha256-l0\/O3+5DyKNsdfBlYmolXJG1dsr8aPbeZlRudh0\/DCw=",
+      "Bridge.dll": "sha256-qnsji4ZnX1iP\/AduTCNJf5nDfmdskLT7huuLxWXz+cI=",
       "Microsoft.AspNetCore.Components.dll": "sha256-OfPNI7UCQFv8hh2XtlZYzY7d9FFHfPRrmnF6aeXeork=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-LxZ7HJ8eLJ8fbfDHpXkGb9VhtdUfHxfLq7a9SmRxCiM=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Ph2ZOl\/LOY2cCUG\/S2iA61YUWIsDlcAHFxzdTG43rPw=",
